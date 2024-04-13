@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-ragged-nested-array/tags). For example,
+
+```javascript
 import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@v0.1.0-deno/mod.js';
 ```
 
@@ -70,7 +75,7 @@ bool = isRaggedNestedArray( [ [ 1, 2, 3 ], [ 4, 5, 6 ] ] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@v0.1.0-deno/mod.js';
+import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@deno/mod.js';
 
 var bool = isRaggedNestedArray( [ [ 1, 2, 3 ], [ 4, 5 ] ] );
 // returns true
