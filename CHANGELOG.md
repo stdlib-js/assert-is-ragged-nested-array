@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-02-24)
 
 <section class="commits">
 
@@ -78,7 +78,7 @@ This release closes the following issue:
 
 <details>
 
--   [`0fb4869`](https://github.com/stdlib-js/stdlib/commit/0fb486917502a8397c281872831c70b2e58b7f27) - **feat:** add `assert/is-ragged-nested-array` (#1368) [(#1368)](https://github.com/stdlib-js/stdlib/pull/1368 ) _(by Rutam, Athan Reines)_
+-   [`0fb4869`](https://github.com/stdlib-js/stdlib/commit/0fb486917502a8397c281872831c70b2e58b7f27) - **feat:** add `assert/is-ragged-nested-array` (#1368) [(#1368)](https://github.com/stdlib-js/stdlib/pull/1368 ) _(by Rutam Kathale, Athan Reines)_
 
 </details>
 
@@ -93,7 +93,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Rutam
+-   Rutam Kathale
 
 </section>
 
