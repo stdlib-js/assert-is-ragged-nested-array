@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@deno/mod.js';
+import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@v0.1.2-deno/mod.js';
 ```
 
 #### isRaggedNestedArray( value )
@@ -70,7 +70,7 @@ bool = isRaggedNestedArray( [ [ 1, 2, 3 ], [ 4, 5, 6 ] ] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@deno/mod.js';
+import isRaggedNestedArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ragged-nested-array@v0.1.2-deno/mod.js';
 
 var bool = isRaggedNestedArray( [ [ 1, 2, 3 ], [ 4, 5 ] ] );
 // returns true
